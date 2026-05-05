@@ -38,7 +38,7 @@ React Frontend  →  Express Backend  →  FastAPI ML Service  →  MongoDB
 ## 🎥 GIF Previews
 
 ### Vehicle App Demo
-![Portfolio GIF](./assets/vehicle-demo.gif)
+![Vehicle App GIF](./assets/vehicle-demo.gif)
 
 ---
 
