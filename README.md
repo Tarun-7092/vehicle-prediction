@@ -9,6 +9,39 @@ React Frontend  →  Express Backend  →  FastAPI ML Service  →  MongoDB
 
 ---
 
+## 🌐 Live Deployment
+
+| Service | Link |
+|----------|------|
+| Frontend App | https://vehicle-prediction.vercel.app |
+| Backend API | https://vehicle-prediction-backend.onrender.com |
+| ML Service | https://vehicle-prediction-qb03.onrender.com |
+| GitHub Repository | https://github.com/Tarun-7092/vehicle-prediction |
+
+> **Note:**  
+> Backend and ML services are hosted on Render free tier and may take 30–60 seconds to wake up on the first request.  
+> You can also manually activate the backend by opening the Backend API and ML Service link before using the application.
+
+---
+
+## 🖼️ Screenshots
+
+### Dashboard
+![Vehicle Prediction](./assets/vehicle-dashboard.png)
+
+### Prediction engine
+![Vehicle Prediction](./assets/vehicle-app.png)
+
+
+---
+
+## 🎥 GIF Previews
+
+### Vehicle App Demo
+![Portfolio GIF](./assets/vehicle-demo.gif)
+
+---
+
 ## Tech Stack
 
 | Layer | Technology |
