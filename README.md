@@ -13,7 +13,7 @@ React Frontend  →  Express Backend  →  FastAPI ML Service  →  MongoDB
 
 | Service | Link |
 |----------|------|
-| Frontend App | https://vehicle-prediction.vercel.app |
+| Frontend App | https://vehicleai.vercel.app |
 | Backend API | https://vehicle-prediction-backend.onrender.com |
 | ML Service | https://vehicle-prediction-qb03.onrender.com |
 | GitHub Repository | https://github.com/Tarun-7092/vehicle-prediction |
